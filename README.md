@@ -1,4 +1,4 @@
-## Hi there 👋
+## 반갑습니다 이윤섭입니다 👋
 
 <!--
 **sella45/sella45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
